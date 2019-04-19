@@ -68,9 +68,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ShimandFackes\ShimandFackes.csproj">
+    <ProjectReference Include="..\ShimandFackes\ShimandFakes.csproj">
       <Project>{ce6f51bf-0f52-4455-80bc-dfe634a9dc7d}</Project>
-      <Name>ShimandFackes</Name>
+      <Name>ShimandFakes</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

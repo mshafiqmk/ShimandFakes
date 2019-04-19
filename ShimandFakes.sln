@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShimandFackes", "ShimandFackes\ShimandFackes.csproj", "{CE6F51BF-0F52-4455-80BC-DFE634A9DC7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShimandFakes", "ShimandFackes\ShimandFakes.csproj", "{CE6F51BF-0F52-4455-80BC-DFE634A9DC7D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{209BD28A-26D7-4438-896E-AF250DDA6CBF}"
 EndProject
